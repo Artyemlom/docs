@@ -28,7 +28,7 @@ local x, y, z = GetCharCoordinates(ped, _f, _f, _f)
 
 ## NUI Changes
 
-TODO
+```SetUIFocus(bool focus, bool cursor) -> SetNuiFocus(bool focus, bool cursor)```
 
 ## Others
 
